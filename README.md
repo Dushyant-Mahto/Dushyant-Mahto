@@ -3,10 +3,10 @@
 </div>  
   
 
-### **<div align="center">Hey there! 👋 I'm Dushyant, a passionate web developer👨‍💻 with a love for crafting intuitive and user-friendly experiences on the web.🚀</div>**  
+### **<div align="center">Hey there! 👋 I'm Dushyant, I love for crafting intuitive and user-friendly experiences.🚀</div>**  
   
 
-- 🌱 I’m currently learning React.js  
+- 🌱 I’m currently learning Data Analysis
   
 
 <br/>  
